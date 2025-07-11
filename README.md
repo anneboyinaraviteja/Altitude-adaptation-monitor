@@ -21,7 +21,7 @@
 
 4. Threshold Alert Testing: Simulated abnormal vitals (finger off sensor) to verify alert triggering for high and low HR, or abnormal temperature.
 
-5.WiFi & App Reliability: Test wireless transmission latency, data loss, and real-time display across varying distances and interference conditions using the web server.
+5. WiFi & App Reliability: Test wireless transmission latency, data loss, and real-time display across varying distances and interference conditions using the web server.
 
 ## Setup Steps
 **1. Assemble Hardware:** Connect all sensors (SpO₂, temperature, pressure) and modules (OLED, buzzer, GSM/Bluetooth) to the microcontroller as per the schematic.
