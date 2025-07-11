@@ -12,7 +12,7 @@
 - **5V Piezo Buzzer**     : Audio alert for critical conditions
 - **3.7V Li-Po + TP4056** :  Power supply with rechargeable module
 
-##TRL-8 goals
+## TRL-8 goals
 1. To validate the accuracy and stability of HR and IR values from the MAX30102 and temperature readings from the MLX90614, by comparing them with clinical-grade devices under both resting and active human physiological conditions.
 
 2. Drift Assessment: Monitor each sensor’s output for 24 hours to assess long-term stability and thermal drift, especially during ambient temperature changes but due to lack of stable environment we have taken the log report in unstable conditions only.
